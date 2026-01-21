@@ -18,8 +18,7 @@ My work lies at the intersection of **data science, space & astronomy, and scien
 - 🤝 Open to **research & open-source collaborations**
 - ⚡ Calm, curious thinker and writer
 
-📄 **Resume:**  
-👉 [Download My Resume (PDF)](P_V_Akhila_Resume.pdf)
+
 
 ---
 
