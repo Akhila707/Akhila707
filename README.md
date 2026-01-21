@@ -1,35 +1,136 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is P V Akhila
-==================================================================================================================================
+Hi 👋  
+I’m **PV AKHILA**
+===========================
 
-Data Scientists
----------------
+**Data Scientist | AI & ML Research Enthusiast | Physics Background**
 
-👋 Hello! I'm a self-taught data scientist with a background in physics, currently diving deep into the fascinating intersection of data science and space exploration. My journey began with a passion for understanding the universe, and I’ve transitioned that curiosity into the world of data analytics, machine learning, and scientific research.
+👋 Hello! I’m a self-taught data scientist with a strong foundation in **Physics** and a growing focus on **Machine Learning, Computer Vision, and Quantum Machine Learning (QML)**.  
+My work lies at the intersection of **data science, space & astronomy, and scientific research**, where I enjoy transforming complex data into meaningful insights.
 
-* 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [akhilaprojects1@gmail.com](mailto:akhilaprojects1@gmail.com)
-* 🧠  I'm learning Power BI
-* 🤝  I'm open to collaborating on Space , astronomy related Projects
-* ⚡  I am calm, curious writer
+---
 
-### Skills
+## 👩‍💻 About Me
 
+- 🌍 Based in **New Delhi, India**
+- ✉️ Reach me at **akhilapv7077@gmail.com**
+- 🧠 Exploring **Quantum Machine Learning (QML)** in the **Life Science domain**
+- 🚀 Interested in **Space, Astronomy, and Scientific ML projects**
+- 🤝 Open to **research & open-source collaborations**
+- ⚡ Calm, curious thinker and writer
+
+📄 **Resume:**  
+👉 [Download My Resume (PDF)](P_V_Akhila_Resume.pdf)
+
+---
+
+## 🎓 Education
+
+- **M.Sc. Data Science**  
+  *Vellore Institute of Technology, Chennai* (2024–2026)  
+  **CGPA:** 8.4
+
+- **B.Sc. B.Ed. Physics**  
+  *SASTRA University, Thanjavur* (2019–2023)  
+  **CGPA:** 8.4
+
+---
+
+## 🧠 Technical Skills
+
+**Languages & Databases**  
+- Python, SQL, MongoDB  
+
+**Data Processing & Analysis**  
+- Pandas, NumPy  
+- Statistical Modeling  
+- Data Validation & Pipelines  
+
+**Machine Learning & AI**  
+- Random Forest, SVM  
+- CNN, LSTM, BiLSTM  
+- Object Detection (YOLOv8)  
+- RAG, Generative AI  
+
+**Tools & Platforms**  
+- Git, GitHub  
+- Flask, Streamlit, Gradio  
+- LaTeX  
+
+---
+
+## 🧪 Experience
+
+### 🚀 Google Developer Group (GDG), VIT Chennai  
+**Lead – Data Science** (Jul 2024 – Present)
+- Reviewed 50+ projects focusing on data pipelines, storage design, and scalability  
+- Mentored teams on ML workflow design and evaluation  
+
+### 🧩 ThetaZero (Remote)  
+**Project Lead** (May 2025 – Jul 2025)
+- Designed a modular orchestration system to track user activity and progress metrics  
+
+### 🔬 IIT Bombay (Remote)  
+**Research Intern** (Jul 2023 – Nov 2023)
+- Conducted comparative research on Panchang and Gregorian calendar systems  
+
+---
+
+## 📌 Projects
+
+### 🌌 Astrophysical Object Classification  
+*(Jul 2024 – Nov 2024)*  
+- Built ML models (RF, SVM, Logistic Regression)  
+- Achieved **98% accuracy** in classifying celestial objects  
+
+### 🛒 IntelliStock — Predictive Refill & Smart Shelf Monitoring  
+*(Jul 2024 – Present)*  
+- Integrated **YOLOv8 + LSTM** for image-driven inventory forecasting  
+- Achieved **MAE = 0.0020** with scalable batch pipelines  
+
+### ♻️ SmartWasteAI — Image Metadata Pipeline  
+*(Jul 2025 – Nov 2025)*  
+- Designed automated ROI-based image metadata extraction pipelines  
+
+---
+
+## 📜 Certifications
+
+- **Generative AI – Intel** (2025)  
+- **Computer Vision – NPTEL** (2025)
+
+---
+
+## 📖 Publications & Conferences
+
+- **ICNCS 2025, VIT Chennai**  
+  *Presented:* *IntelliStock — Predictive Refill & Smart Shelf Monitoring*
+
+- **Pragma: A Soulful Journey of Love** (ISBN: 979-8885035309), 2021  
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://github.com/Akhila707" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+</a>
+<a href="https://www.linkedin.com/in/akhila-p-v-2b728b353/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+</a>
+<a href="https://www.instagram.com/storytellingwithragavi" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
+</a>
 </p>
 
+---
 
-### Socials
+## 📊 GitHub Stats
 
-<p align="left"> <a href="https://www.github.com/Akhila707" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/https://www.instagram.com/storytellingwithragavi?utm_source=qr&igsh=dWMzaHh1bHBlcW9y" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/linkedin.com/in/akhila-p-v-b674371b2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhila707&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhila707&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhila707&layout=compact&theme=dark)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Akhila707"><img src="https://github-readme-stats.vercel.app/api?username=Akhila707&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akhila707's GitHub stats" /></a>
-
-<a href="http://www.github.com/Akhila707"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhila707&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Akhila707"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akhila707&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Akhila707" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhila707&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+⭐ *“From physics to data, from curiosity to insight.”*
