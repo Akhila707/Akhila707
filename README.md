@@ -17,8 +17,7 @@
 </p>
 
 <!-- Girl coding GIF on the right -->
-<img align="right" alt="Girl Coding" width="280" src="![Uploading image_processing20210301-3601-w1fbuc.gif…]()
-" />
+<img align="right" alt="Girl Coding" width="280" src="https://raw.githubusercontent.com/Akhila707/Akhila707/main/coding.gif" />
 
 - 🔭 &nbsp; Currently building **IntelliStock** — YOLOv8 + LSTM smart inventory forecasting
 
