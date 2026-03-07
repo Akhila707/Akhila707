@@ -153,13 +153,6 @@
 
 <br/>
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhila707&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
-<br/>
 
 <!-- Stats -->
 <p>
