@@ -151,25 +151,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<br/>
-
-
-<!-- Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhila707&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Akhila707" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhila707&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Akhila707" />
-</p>
-
-<br/><br/><br/><br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhila707&theme=tokyonight&hide_border=true" alt="Akhila707" />
-</p>
-
-<br/>
 
 <!-- Footer wave -->
 <p align="center">
