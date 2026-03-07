@@ -15,9 +15,9 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75bfd301b4c6b53f99c24e2928/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-- 🔭 &nbsp; completed  **IntelliStock** — YOLOv8 + LSTM smart inventory forecasting
+- 🔭 &nbsp; Currently building **IntelliStock** — YOLOv8 + LSTM smart inventory forecasting
 
 - 🧠 &nbsp; Exploring **Quantum Machine Learning (QML)** in the Life Science domain
 
@@ -99,7 +99,7 @@
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Akhila707&theme=onestar&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=Akhila707&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
 
 <br/>
 
