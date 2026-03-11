@@ -143,14 +143,6 @@
 
 <br/>
 
-<!-- Snake animation -->
-<h3 align="left">🐍 My Contributions</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 
 <!-- Footer wave -->
 <p align="center">
