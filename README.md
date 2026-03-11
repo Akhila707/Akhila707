@@ -19,7 +19,6 @@
 <!-- Girl coding GIF on the right -->
 <img align="right" alt="Girl Coding" width="280" src="https://raw.githubusercontent.com/Akhila707/Akhila707/main/coding.gif" />
 
-- 🔭 &nbsp; **IntelliStock** — YOLOv8 + LSTM smart inventory forecasting
 
 - 🧠 &nbsp; Exploring **Quantum Machine Learning (QML)** in the Life Science domain
 
