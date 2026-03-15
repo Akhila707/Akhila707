@@ -140,7 +140,7 @@
 ### github at a glance
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhav9369&theme=github-dark-blue&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img src="https://streak-stats.demolab.com?user=Akhila707&theme=github-dark-blue&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 </div>
 
 <br/>
