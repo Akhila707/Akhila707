@@ -3,8 +3,6 @@
 <h3 align="center">✨ Data Scientist · AI & ML Researcher · Physics at Heart ⚛️</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhila707&label=Profile%20views&color=blueviolet&style=flat" alt="Akhila707" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Research%20Collabs-58a6ff?style=flat" />
   &nbsp;
   <img src="https://img.shields.io/badge/Exploring-Quantum%20ML-blueviolet?style=flat" />
